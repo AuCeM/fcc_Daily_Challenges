@@ -1,1 +1,1 @@
-Daily challenges found on freeCodeCamp
+Daily Python challenges found on freeCodeCamp
